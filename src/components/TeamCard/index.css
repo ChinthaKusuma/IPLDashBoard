@@ -1,0 +1,26 @@
+.team {
+  display: flex;
+  border: 1px solid white;
+  width: 35vw;
+  border-radius: 12px;
+  margin: 20px;
+
+  color: white;
+  padding: 20px;
+}
+.img21 {
+  margin-right: 20px;
+}
+.li1 {
+  display: flex;
+  flex-direction: row;
+}
+.img2 {
+  height: 100px;
+  width: 100px;
+}
+.name {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

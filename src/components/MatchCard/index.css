@@ -1,0 +1,22 @@
+.bg1234 {
+  background-color: black;
+  width: 20vw;
+  border-radius: 12px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  list-style: none;
+}
+.img12345 {
+  height: 50px;
+  width: 50px;
+}
+.h12 {
+  color: #18ed66;
+}
+.h13 {
+  color: #e31a1a;
+}
